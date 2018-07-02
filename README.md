@@ -20,3 +20,6 @@ For example, Juan Martin Del Potro’s 20.2 adjusted grass/concrete ranking is 1
 Further, we weighted tournaments on three levels based on the average winning player ranking. This gives grand slam tournaments like the French Open and the U.S Open more importance than a tournament in Antwerp or Miami, which generally have a lower level of competition.
 
 Read Here: https://beyondtheaverage.wordpress.com/2018/06/01/tennis-win-probability-model/
+Read Here: https://beyondtheaverage.wordpress.com/2018/07/02/wimbledon-predictions/
+
+
